@@ -25,7 +25,7 @@ Your task is to add functionality to the page such that when a user presses the 
 
 ![](robot_simulator_storing_moves.gif)
 
-### Move the robot
+x### Move the robot
 
 The robot does **NOT** move until the user presses the `Move!` button. When this button is clicked, the direction at the top should be removed from the page and the robot should move in that direction. 
 
@@ -33,7 +33,7 @@ Note: If the robot hits a wall, it will not move and you will instead see a `ale
 
 ![](robot_simulator_moving.gif)
 
-### Delete a move
+x### Delete a move
 
 When a user presses the 'delete' key on their keyboard, remove the **last** direction from the list of directions in the `ul`.
 
